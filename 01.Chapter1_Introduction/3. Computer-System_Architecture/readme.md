@@ -1,6 +1,7 @@
 # Computer-System Architecture
 
-Computer-System Architecture refers to how a computer system is structured in terms of its hardware components. Here's a summary of the major categories:
+Computer-System Architecture refers to how a computer system is structured in terms of its hardware components. Here's a summary of the major categories according to the number of general-purpose
+processors used.:
 
 ### 1. Single-Processor Systems
 - **Definition**: Systems with one CPU and a single processing core.
